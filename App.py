@@ -41,8 +41,8 @@ templates_exemplo = {
     "parceiros": (
         ", {nome}, da empresa {empresa}, "
         "Nós da *GDI Informática* reafirmamos nossa parceria e temos *Novidades* e *Promoções* "
-        "exclusivas para seus Clientes nesse novo ciclo. Ferramentas como a Emissão da NF-e, e o Cupom Eletrônico interligado com as Máquinas de Cartões."
-        "Entre em contato comigo, o Glaucio!, para mais informações."
+        "exclusivas para seus Clientes nesse novo ciclo. Ferramentas como a Emissão da NF-e, e o Cupom Eletrônico interligado com as Máquinas de Cartões. "
+        "Entre em contato comigo, o Glaucio!, para mais informações. "
         "Caso não queira mais receber esse tipo de contato, envie *SAIR*."
     ),
     "contadores": (
